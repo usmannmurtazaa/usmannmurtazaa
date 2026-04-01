@@ -30,31 +30,60 @@ I focus on web development and modern software technologies with consistent hand
 
 ## 🧠 What I Do
 
-I learn by building real projects instead of only studying theory.
-
-I focus on frontend and backend development to grow as a full stack developer.
-
-I improve skills through consistent practice and project based learning.
+- Build real world projects to improve skills
+- Focus on frontend and backend development
+- Learn modern frameworks and tools
+- Improve problem solving and coding logic daily
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-Python, Java, C++
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
+</p>
 
-### Web Development
+### 🌐 Frontend Development
 
-HTML, CSS, JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+</p>
 
-### Tools
+### ⚙️ Backend Development
 
-Git, GitHub, VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,php" />
+</p>
 
-### Concepts
+### 🗄️ Databases
 
-Data Structures, Algorithms, Object Oriented Programming, Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmannmurtazaa&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmannmurtazaa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmannmurtazaa&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -62,50 +91,44 @@ Data Structures, Algorithms, Object Oriented Programming, Databases
 
 ### Personal Portfolio Website
 
-[https://usmannmurtazaa.netlify.app](https://usmannmurtazaa.netlify.app)
-
-A personal portfolio built to showcase my skills and projects.
+https://usmannmurtazaa.netlify.app
 
 Key features:
-
-* Responsive design for mobile and desktop
-* Clean and simple UI
-* Structured project and skill presentation
-
----
-
-## 📊 GitHub Stats
-
-GitHub Stats:
-[https://github-readme-stats.vercel.app/api?username=usmannmurtazaa&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=usmannmurtazaa&show_icons=true&theme=tokyonight)
-
-Streak Stats:
-[https://github-readme-streak-stats.herokuapp.com/?user=usmannmurtazaa&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=usmannmurtazaa&theme=tokyonight)
+- Responsive design for all devices
+- Clean modern UI
+- Structured skills and project showcase
+- Fast loading performance
 
 ---
 
 ## 🎯 Goals
 
-* Build strong real world projects
-* Improve problem solving skills
-* Contribute to open source projects
-* Become a full stack developer
+- Build advanced full stack projects
+- Improve data structures and algorithms
+- Contribute to open source
+- Become a professional software developer
 
 ---
 
 ## 📬 Connect With Me
 
-Portfolio
-[https://usmannmurtazaa.netlify.app](https://usmannmurtazaa.netlify.app)
-
-GitHub
-[https://github.com/usmannmurtazaa](https://github.com/usmannmurtazaa)
-
-LinkedIn
-[https://linkedin.com/in/usman-murtaza01](https://linkedin.com/in/usman-murtaza01)
+<p align="left">
+  <a href="https://usmannmurtazaa.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://github.com/usmannmurtazaa">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/usman-murtaza01">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:usmanmurtaza2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Note
 
-Always open to collaboration, learning, and new opportunities.
+Always open to collaboration, learning, and new opportunities
