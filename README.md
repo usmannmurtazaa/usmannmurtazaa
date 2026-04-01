@@ -1,6 +1,6 @@
-# 💫 About Me
+# About Me
 
-Hi, I am Mani, a Computer Science student and aspiring software developer with a strong passion for building practical and user focused digital solutions. I enjoy learning new technologies and applying them in real projects that solve real problems.
+Hi, I'm Usman Murtaza, a Computer Science student and aspiring software developer with a strong passion for building practical and user focused digital solutions. I enjoy learning new technologies and applying them in real projects that solve real problems.
 
 I am focused on improving my skills in web development and software engineering. I like working with modern tools and continuously expanding my knowledge in both frontend and backend development.
 
@@ -71,3 +71,9 @@ https://usmannmurtazaa.netlify.app
 GitHub: https://github.com/usmannmurtazaa  
 LinkedIn: https://linkedin.com/in/usmanmurtaza01  
 Portfolio: https://usmannmurtazaa.netlify.app
+
+---
+
+##⚡ Personal Note
+
+I am always open to learning, collaboration, and new opportunities. If you are working on something interesting or need a dedicated developer, feel free to connect with me.
